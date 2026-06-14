@@ -29,7 +29,7 @@ Focused on Python, SQL, and data-driven problem solving.
 
 ### 📊 Tableau Portfolio
 Dashboards and visual storytelling projects  
-→ https://github.com/sricharankoneru/Tableau_Portfolio
+→ https://github.com/sricharankoneru/Tableau-Portfolio
 
 ### 🧠 Python & SQL Practice (Exercism)
 Core programming fundamentals and SQL exercises  
@@ -37,11 +37,11 @@ Core programming fundamentals and SQL exercises
 
 ### 🎓 Master’s Thesis
 Research and applied technical work  
-→ https://github.com/YOUR_USERNAME/Master_Thesis
+→ https://github.com/sricharankoneru/Master_Thesis
 
 ### 🎓 Bachelor’s Thesis
 Foundational academic project  
-→ https://github.com/YOUR_USERNAME/Bachelor_Thesis
+→ https://github.com/sricharankoneru/Bachelor_Thesis
 
 ---
 
